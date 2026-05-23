@@ -1,0 +1,17 @@
+{
+  "name": "interior-design-estimator",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^3.11.0",
+    "three": "^0.164.0",
+    "vue": "^3.4.27"
+  }
+}

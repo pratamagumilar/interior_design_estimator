@@ -1,0 +1,5 @@
+const SelectGroup_vue_vue_type_style_index_0_scoped_871eb8a0_lang = ".select-group[data-v-871eb8a0]{display:flex;flex-direction:column;gap:6px;margin-bottom:16px}.label[data-v-871eb8a0]{color:var(--text-primary);font-size:.875rem;font-weight:500}.select-wrapper[data-v-871eb8a0]{position:relative}.select[data-v-871eb8a0]{-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:var(--surface-color);border:1px solid var(--border-color);border-radius:var(--radius-sm);color:var(--text-primary);cursor:pointer;font-family:inherit;font-size:1rem;padding:12px 40px 12px 16px;transition:all .2s ease;width:100%}.select[data-v-871eb8a0]:focus{border-color:var(--accent-color);box-shadow:0 0 0 3px #0071e333;outline:none}.icon-wrapper[data-v-871eb8a0]{color:var(--text-secondary);display:flex;pointer-events:none;position:absolute;right:16px;top:50%;transform:translateY(-50%)}.icon[data-v-871eb8a0]{height:16px;width:16px}";
+export {
+  SelectGroup_vue_vue_type_style_index_0_scoped_871eb8a0_lang as default
+};
+//# sourceMappingURL=kalkulator-styles-1.mjs-C2RepEio.js.map
