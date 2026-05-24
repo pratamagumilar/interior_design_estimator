@@ -1,7 +1,7 @@
 <template>
   <div class="landing-page">
     <header class="navbar container">
-      <div class="logo">Interior<span>Estimator</span></div>
+      <img src="/logo.png" alt="Jatierra Studio" class="logo-img" />
     </header>
 
     <main class="hero-section container">
@@ -62,7 +62,7 @@
   content: '';
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(255, 255, 255, 0.5); /* Overlay lebih transparan agar gambar nyata */
+  background: rgba(255, 255, 255, 0.5);
   z-index: 1;
 }
 
@@ -74,15 +74,10 @@
   z-index: 10;
 }
 
-.logo {
-  font-size: 1.5rem;
-  font-weight: 800;
-  color: var(--text-primary);
-  letter-spacing: -0.5px;
-}
-
-.logo span {
-  color: var(--accent-color);
+.logo-img {
+  height: 360px;
+  width: auto;
+  object-fit: contain;
 }
 
 .hero-section {
@@ -121,7 +116,7 @@
   color: var(--text-primary);
   margin-bottom: 24px;
   line-height: 1.1;
-  letter-spacing: -1px;
+  letter-spacing: -1.5px;
 }
 
 .text-gradient {
